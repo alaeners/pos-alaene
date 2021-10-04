@@ -1,3 +1,6 @@
 [submodule "ios/ios/App01"]
 	path = ios/ios/App01
 	url = git@github.com:alaeners/pos-alaene.git
+[submodule "ios/ios/Exemplo1"]
+	path = ios/ios/Exemplo1
+	url = git@github.com:alaeners/pos-alaene.git
